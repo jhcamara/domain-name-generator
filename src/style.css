@@ -1,1 +1,22 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: black;
+  color: greenyellow;
+  font-family: "Courier New", Courier, monospace;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+#finalResults {
+  list-style-type: none;
+  text-align: left;
+}
+
+#master {
+  display: flex;
+  justify-content: left;
+}
+h1 {
+  text-align: left;
+}
